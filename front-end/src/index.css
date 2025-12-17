@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-*: initial;
+  --color-turquoise: #38A3A5;
+  --color-mint: #57CC99;
+  --color-pastel: #80ED99; 
+  --color-white: #F4F9F4;
+  --color-yellow: #EDF67D;
+
+  --text-*: initial;
+  --text-heading-lg: 2.25rem;
+  --text-heading-md: 1.875rem;
+  --text-heading-sm: 1.5rem;
+  --text-body-lg: 1.125rem;
+  --text-body-base: 1rem;
+  --text-body-sm: 0.875rem;
+
+
+  --shadow-smooth: 0 4px 6px rgba(0, 0, 0, 0.05), 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-lifted: 0 10px 20px rgba(0, 0, 0, 0.15);
+
+  --radius-*: initial;
+  --radius-card: 2rem;
+  --radius-button: 0.5rem;
+
+  --screen-xl-custom: 1175px;
+}
+
+
+:root {
+  background-color:  #57CC99;
+}
