@@ -35,7 +35,7 @@ This project was originally developed as part of a front-end assessment and has 
 
 The application is a **study tracker** designed to help users manage and monitor courses across multiple course providers. When courses are spread over different platforms, maintaining a clear overview becomes challenging — this project aims to solve that problem through a centralized interface.
 
-> ⚠️ **Note:** This project is still a work in progress. Some features, styling, and user flows are actively being improved.
+> ⚠️ **Note:** Production-ready core features. Additional polish scheduled for future releases.
 
 ---
 
